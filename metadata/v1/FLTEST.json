@@ -1,0 +1,7 @@
+{
+  "name": "FairLaunch Test",
+  "symbol": "FLTEST",
+  "description": "Test token created through FairLaunch Studio using the Ammora SDK on GIWA Sepolia.",
+  "category": "RWA & Other",
+  "chainId": 91342
+}
